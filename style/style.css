@@ -1,0 +1,55 @@
+body {
+	background-color: #282923;
+}
+
+#pomet {
+	color: white;
+	font-size: 4em;
+	font-family: arial black;
+	text-align: center;
+}
+
+#href {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#href_1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 4em;
+    font-family: tahoma;
+    margin: 1px;
+    border-radius: 10px;
+}
+
+#pod_text {
+	color: white;
+	font-size: 3.5em;
+	font-family: tahoma;
+	text-align: center;
+}
+
+#hihi {
+	color: white;
+	font-size: 3.9em;
+	font-family: arial;
+	background-color: #FE9800;
+	border-radius: 20px 50px;
+	text-align: center;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+input {
+	background-color: white;
+	font-size: 4em;
+	padding: 20px;
+	border-radius: 20px 30px;
+}
