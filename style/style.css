@@ -1,0 +1,29 @@
+body {
+	background-color: #282923;
+}
+
+#pomet {
+	color: white;
+	font-size: 4em;
+	font-family: arial black;
+	text-align: center;
+}
+
+#href {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#href_1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 4em;
+    font-family: tahoma;
+    margin: 3px;
+}
